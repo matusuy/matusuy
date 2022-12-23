@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matías, Elect. Eng. from Montevideo, 🇺🇾
 - 🌱 I’m currently studying a PhD on Physics Eng. focused on atmospheric remote sensing
-- 🛠️ I’m have been working as a lecturer at Universidad de la República for more than ten years. Also I worked as Eng. Team Leader assembling satellites at Satellogic!
+- 🛠️ I have been working as a lecturer at Universidad de la República for more than ten years. Also I worked as Opt. Eng. Team Leader assembling satellites at Satellogic for several years!
 - 📫 How to reach me: @mosoriom_ @ twitter || matiasosorio @ LinkedIn || mosorio@fing.edu.uy
 
 <!---
